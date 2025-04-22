@@ -1,5 +1,3 @@
-# DSC672 Group 9 Project
-
 ## Project Overview
 This project explores the relationship between weather patterns and data center power consumption/generation. By analyzing geographical, climate, and facility data from multiple sources, we investigate how environmental factors influence data center operations and efficiency.
 
